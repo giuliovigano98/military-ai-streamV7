@@ -1,0 +1,17 @@
+.git
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.venv/
+data/
+dataset/
+datasets/
+videos/
+*.mp4
+*.mov
+*.avi
+models/
+*.h5
+*.hdf5
+*.onnx
+*.tflite

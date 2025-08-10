@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: military-ai-stream-svc
+  labels: { app: military-ai-stream }
+spec:
+  type: LoadBalancer
+  selector: { app: military-ai-stream }
+  ports:
+    - name: http
+      port: 80
+      targetPort: 8501
