@@ -4,6 +4,6 @@ resources:
   - deployment.yaml
   - service.yaml
 images:
-  - name: ghcr.io/giuliovigano98/military-ai-streamV7
-    newName: ghcr.io/giuliovigano98/military-ai-streamV7
+  - name: ghcr.io/giuliovigano98/military-ai-streamv7
+    newName: ghcr.io/giuliovigano98/military-ai-streamv7
     newTag: latest

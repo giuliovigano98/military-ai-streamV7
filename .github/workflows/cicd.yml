@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: giuliovigano98/military-ai-streamV7
+  IMAGE_NAME: giuliovigano98/military-ai-streamv7
 
 jobs:
   build-and-push:
