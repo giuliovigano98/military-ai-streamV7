@@ -7,4 +7,4 @@ resources:
 images:
   - name: ghcr.io/giuliovigano98/military-ai-streamV7
     newName: ghcr.io/giuliovigano98/military-ai-streamV7
-    newTag: abcdef0   # <-- GitHub Actions lo aggiorna ad ogni build
+    newTag: 1b34dd9
