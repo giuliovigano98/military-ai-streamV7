@@ -7,4 +7,4 @@ resources:
 images:
   - name: ghcr.io/giuliovigano98/military-ai-streamv7
     newName: ghcr.io/giuliovigano98/military-ai-streamv7
-    newTag: latest
+    newTag: bb63a71
